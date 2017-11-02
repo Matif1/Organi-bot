@@ -10,10 +10,10 @@ int nuevo = 0;
 int opcion = 0;
 int main()
 {
-	SetConsoleTitle("FlojoBot_beta");
+	SetConsoleTitle("Organibot_idea");
 	
 	do{
-		cout<<"Beta de Flojo bot"<<endl;
+		cout<<"IDEA DE ORGANIBOT"<<endl;
 	cout<<"Por favor ingrese el numero total de catedras de su ramo: "<<endl;
 	cin>>catedras;
 	cout<<"Ingrese el porcentaje minimo de asistencias(0.0 - 100.0): "<<endl;
