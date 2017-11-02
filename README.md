@@ -6,7 +6,7 @@
 Por el momento el proyecto se encuentra detenido dado a que me he dado cuenta de que no domino java y html, lo que me genera complicacion para poder dersarrollar.
 Reconozco que lo he agregado como forma de obligarme a mi mismo a comenzar y terminar esta idea que tengo.
  
- --IN INGLISH--
+ --IN ENGLISH--
  The idea of the program is to present the user with his schedule, how many classes he must attend, how many he has missed and his duties (whether these tasks, projects or investigations). This is the initial idea, but later I think adding the option of generating a community of students, that support each other sharing their notes, their tasks and giving opinions and discussing their areas of study.
  At the moment the project is stopped because I have realized that I do not dominate java and html, which generates a complication to be able to develop.
 I recognize that I have added it as a way of forcing myself to begin and finish this idea that I have.
